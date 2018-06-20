@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

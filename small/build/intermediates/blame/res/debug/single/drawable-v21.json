@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ckc/workspace/Small/Android/DevSample/small/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/ckc/.android/build-cache/1ab9e22d9b803cc1d86e49ebcc71e9d60aa48fbb/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
